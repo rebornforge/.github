@@ -1,3 +1,39 @@
+[Français](#français) · [English](#english)
+
+## Français
+
+# Politique de sécurité
+
+## Périmètre actuel
+
+RebornForge est en phase documentaire. Aucune version applicative prise en charge ni service de réponse aux vulnérabilités n’est encore publié.
+
+## Signaler une vulnérabilité
+
+Ne publiez pas de détails exploitables, secrets ou données personnelles dans les issues ou PR.
+
+Le fondateur a choisi les [issues GitHub](https://github.com/rebornforge/.github/issues/new/choose). Fournissez seulement un résumé général et le composant public concerné, sans instructions d’exploitation ni preuves sensibles. Les issues ne sont pas confidentielles. Aucun canal privé n’est désigné et l’activation du signalement privé GitHub n’a pas été vérifiée.
+
+Aucun délai de réponse ou de correction n’est garanti.
+
+## Traitement proposé
+
+Le fondateur ou un responsable humain autorisé évalue la gravité, limite l’accès aux preuves sensibles, coordonne et vérifie une correction, puis organise la divulgation. Les projets tiers relèvent de la politique de leurs mainteneurs.
+
+Ne commitez jamais de secret. Un secret exposé doit être révoqué ou renouvelé à sa source par un opérateur autorisé ; son retrait de l’historique ne l’invalide pas. Réécrire l’historique nécessite une autorisation.
+
+## Contrôles recommandés
+
+Exiger des PR pour main, interdire les push forcés et suppressions, désactiver les fusions automatiques et exiger une revue du fondateur compatible avec les comptes utilisés. Limiter les accès des intégrations.
+
+Les futures automatisations devront avoir des permissions minimales, des dépendances maintenues, des actions épinglées et une isolation des contributions non fiables. Sauvegardes et restauration devront être testées avant production.
+
+Il s’agit de recommandations, pas de protections déclarées actives. Consultez l’[audit](docs/FOUNDATION_AUDIT.md).
+
+---
+
+## English
+
 # Security policy
 
 ## Current scope

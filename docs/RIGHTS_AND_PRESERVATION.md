@@ -1,3 +1,47 @@
+[Français](#français) · [English](#english)
+
+## Français
+
+# Droits et préservation responsable
+
+**État :** règles opérationnelles proposées. Elles ne constituent pas un avis juridique et n’accordent aucun droit sur les contenus tiers.
+
+## Distinguer les usages
+
+Évaluez séparément référencement historique, métadonnées, liens d’archives, réutilisation du code, distribution de fichiers, renaissance et usage des marques ou médias. Une permission ne couvre pas automatiquement les autres usages.
+
+Un code public n’est pas automatiquement réutilisable. Ancienneté et inactivité n’établissent pas un abandon juridique. Une licence inconnue signifie des droits non vérifiés.
+
+## Traçabilité
+
+Chaque future fiche devra relever nom original, créateurs, dates connues, URL et date de consultation, preuves des affirmations, licence, informations pertinentes sur les ayants droit et incertitudes.
+
+Séparez faits, souvenirs et hypothèses. Attribuez les auteurs et distinguez reprises indépendantes et continuations officielles. Captures, logos, archives et sources nécessitent leur propre analyse de droits.
+
+## Examen proposé
+
+1. Recevoir une proposition sourcée et des contenus autorisés.
+2. Vérifier provenance et droits pour chaque usage.
+3. Enregistrer inconnues et restrictions sans présumer d’une permission.
+4. Demander l’accord du fondateur pour les publications et reprises sensibles.
+5. Conserver l’historique des sources et corrections en protégeant les données personnelles.
+
+Un projet peut être documenté sans être candidat à une renaissance. La détection automatique de licences ne résout pas les ambiguïtés de propriété ou d’autorisation.
+
+## Corrections et retraits
+
+Le fondateur a choisi les [issues](https://github.com/rebornforge/.github/issues/new/choose). Indiquez l’URL concernée, l’action demandée et les références publiques. Ne joignez pas de pièces d’identité, preuves privées de propriété ou données personnelles. Aucun canal confidentiel n’est désigné.
+
+Le traitement proposé comprend examen humain, identification du contenu, restrictions temporaires proportionnées lorsqu’elles sont autorisées, vérification des éléments, décision tracée et réponse dans l’issue. Les délais légaux applicables seront évalués lorsque la juridiction d’exploitation sera établie.
+
+## Xnova Reforged
+
+La phase documentaire n’autorise aucun référencement officiel, transfert, changement de code ou réutilisation de contenu. Vérifier les droits et obtenir l’accord explicite du fondateur avant référencement officiel.
+
+---
+
+## English
+
 # Rights and responsible preservation
 
 **Review status:** proposed operational guidance. It does not constitute legal advice or grant rights over third-party material.

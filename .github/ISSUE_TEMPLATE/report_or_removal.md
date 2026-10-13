@@ -1,8 +1,36 @@
 ---
-name: Report or removal request
-about: Report public content or request a correction or removal
+name: "Signalement ou retrait / Report or removal"
+about: "Signaler un contenu public ou demander son retrait / Report public content or request removal"
 title: ""
 ---
+
+[Français](#français) · [English](#english)
+
+## Français
+
+Les issues sont publiques. Fournissez uniquement les informations nécessaires non sensibles. Aucun document d’identité, allégation privée, secret, instruction d’exploitation ou preuve confidentielle de propriété.
+
+## Type de demande
+
+Droits / retrait / conduite / préoccupation générale de sécurité / autre.
+
+## Contenu public concerné
+
+URL ou référence documentaire.
+
+## Résumé
+
+Sans information confidentielle.
+
+## Action souhaitée
+
+## Références publiques
+
+Aucun délai garanti. Le fondateur examine la demande ; l’ouverture de l’issue n’autorise pas à elle seule un retrait ou une sanction.
+
+---
+
+## English
 
 Issues are public. Include only necessary non-sensitive information. Do not upload identity documents, private allegations, secrets, exploit instructions, or confidential ownership evidence.
 
