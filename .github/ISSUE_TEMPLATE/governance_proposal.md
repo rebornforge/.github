@@ -1,8 +1,32 @@
 ---
-name: Foundation or governance proposal
-about: Suggest an improvement requiring founder consideration
+name: "Proposition de gouvernance / Governance proposal"
+about: "Proposer une amélioration au fondateur / Propose an improvement for founder review"
 title: ""
 ---
+
+[Français](#français) · [English](#english)
+
+## Français
+
+## Objectif
+
+## Recommandation
+
+## Alternatives utiles
+
+## Justification et limites
+
+## Risques et coûts
+
+Permissions, sécurité, droits et autres projets.
+
+## Décision attendue
+
+La proposition n’est pas approuvée tant que le fondateur ne l’accepte pas explicitement.
+
+---
+
+## English
 
 ## Objective
 

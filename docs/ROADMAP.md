@@ -1,3 +1,41 @@
+[Français](#français) · [English](#english)
+
+## Français
+
+# Feuille de route opérationnelle
+
+Chaque phase requiert la validation explicite du fondateur avant la suivante. Les dates et le MVP ne sont pas arrêtés.
+
+| Phase | Livrable | Validation |
+| --- | --- | --- |
+| 0 — Fondations GitHub | Audit, documents, modèles, protections proposées, premières PR | Documents acceptés ; réglages autorisés séparément |
+| 1 — Définition produit | MVP, exclusions, profils, user stories, critères, priorités | Périmètre approuvé |
+| 2 — Recherche UX | GitHub, GitLab, Product Hunt, AlternativeTo, Software Heritage et préservation ; parcours et navigation | Conclusions approuvées |
+| 3 — Concepts UI | Maquettes d’accueil consultables Digital Forge, Digital Heritage et Modern Community ; comparaison | Direction choisie |
+| 4 — Maquettes détaillées | Pages MVP desktop/mobile ; états interactifs, vides, chargement et erreurs | Pages validées avant prototype |
+| 5 — Prototype interactif | Technologie approuvée, démonstration navigable, données fictives et simulations explicites | Prototype testé et validé |
+| 6 — Design system | Tokens, composants, responsive, accessibilité | Design system approuvé |
+| 7 — Architecture | Comparaison, données, API, authentification, internationalisation, Docker, tests | Architecture approuvée |
+| 8 — Développement | Uniquement le MVP approuvé | Critères réalisés |
+| 9 — Qualité | Tests fonctionnels, intégration, sécurité, accessibilité, responsive, fidélité visuelle | Version candidate acceptée |
+| 10 — Livraison | Installation, déploiement préparé, sauvegardes, restauration, contrôles finaux | Production explicitement autorisée |
+
+## Autorisation actuelle
+
+Seule la préparation documentaire de phase 0 est autorisée, avec français prioritaire et traduction anglaise. Aucun développement, technologie de prototype, nouveau dépôt, réglage de sécurité, déploiement ou fusion n’est implicitement approuvé.
+
+Conservez les fondations dans ce dépôt. Reporter les dépôts documentation et communauté reste une proposition. Architecture, licences, design, modération et MVP restent ouverts.
+
+La future internationalisation doit privilégier le français et fournir l’anglais, avec possibilité d’ajouter d’autres langues.
+
+## Suite proposée
+
+Après revue et fusion autorisée, présenter un périmètre borné de phase 1. Ne pas commencer cette phase implicitement.
+
+---
+
+## English
+
 # Operational roadmap
 
 Every phase requires explicit founder approval before the next begins. Dates and MVP scope remain uncommitted.
@@ -25,3 +63,7 @@ Keep foundation documentation in this repository for now. Separate docs and comm
 ## Proposed next step
 
 After the foundation PR is reviewed and merged by the founder, propose a bounded phase 1 product-definition package. Do not start it implicitly.
+
+## Language decision
+
+French is the primary public and working language; English translations accompany documentation. Future interface internationalization must prioritize French, provide English, and allow further languages.

@@ -1,3 +1,25 @@
+[Français](#français) · [English](#english)
+
+## Français
+
+# RF-NNN — Titre de la décision
+
+- **Statut :** Proposed.
+- **Date :** YYYY-MM-DD.
+- **Sujet :**
+- **Contexte :**
+- **Proposition IA :**
+- **Alternatives :**
+- **Recommandation :**
+- **Décision du fondateur :** en attente.
+- **Conséquences :**
+- **Preuves de vérification ou mise en œuvre :**
+- **Remplace / remplacée par :** aucune.
+
+---
+
+## English
+
 # RF-NNN — Decision title
 
 - **Status:** Proposed

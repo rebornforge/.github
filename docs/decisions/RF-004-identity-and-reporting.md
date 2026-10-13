@@ -1,3 +1,23 @@
+[Français](#français) · [English](#english)
+
+## Français
+
+# RF-004 — Identité et canal de signalement
+
+- **Statut :** Approved.
+- **Date :** 2026-10-12.
+- **Sujet :** identité du fondateur et demandes de retrait.
+- **Contexte :** confirmation demandée pendant la préparation.
+- **Proposition IA :** confirmer identité et canal avant contacts ou CODEOWNERS.
+- **Alternatives :** canal confidentiel dédié ou attente.
+- **Recommandation :** appliquer le choix du fondateur en évitant les données sensibles publiques.
+- **Décision :** « DiDroD sera mon identifiant » ; « Pour les signalements et retrait, des issues ».
+- **Conséquences :** identité DiDroD et issues publiques documentées. Aucun contact confidentiel inventé. Login GitHub et droits à vérifier avant CODEOWNERS.
+
+---
+
+## English
+
 # RF-004 — Founder identity and reporting channel
 
 - **Status:** Approved

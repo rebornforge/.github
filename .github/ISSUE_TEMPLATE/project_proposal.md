@@ -1,8 +1,38 @@
 ---
-name: Historical project proposal
-about: Propose sourced historical documentation for future consideration
+name: "Projet historique / Historical project"
+about: "Proposer une documentation historique sourcée / Propose sourced historical documentation"
 title: ""
 ---
+
+[Français](#français) · [English](#english)
+
+## Français
+
+Cette proposition n’est ni une soumission à une plateforme opérationnelle ni une autorisation de renaissance ou redistribution.
+
+## Projet d’origine
+
+Nom, créateurs, dates connues, objectif et catégorie.
+
+## Sources
+
+Site, dépôt, références historiques et dates de consultation. Séparez faits et souvenirs.
+
+## Droits
+
+Licence et preuves connues, informations publiques sur les ayants droit, restrictions. Indiquez « Inconnu » si nécessaire.
+
+## Intérêt de préservation ou renaissance
+
+Expliquez les raisons sans joindre d’archives, captures ou médias non autorisés.
+
+## Incertitudes
+
+Lacunes et conflits possibles. Xnova Reforged nécessite une autorisation explicite avant référencement officiel.
+
+---
+
+## English
 
 This is a proposal, not an operational platform submission or authorization to revive or redistribute a project.
 
