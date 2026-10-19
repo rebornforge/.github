@@ -4,7 +4,7 @@
 
 # Phase 1 — Définition du produit
 
-**État : proposition à valider. Date : 19 octobre 2026.** Le fondateur autorise le cadrage, pas encore le MVP recommandé, la phase UX ou le développement.
+**État : cinq recommandations du MVP approuvées le 19 octobre 2026 (RF-008).** La phase UX est autorisée ; le développement et les phases suivantes restent soumis à validation.
 
 ## Proposition centrale
 
@@ -21,7 +21,7 @@ Recommandation : catalogue public, recherche simple, fiches historiques sourcée
 5. [Contraintes, risques et validation](VALIDATION.md).
 6. [Autorisation de phase](../decisions/RF-006-phase-1-authorization.md) et [arbitrage du MVP](../decisions/RF-007-mvp-proposal.md).
 
-## Arbitrages attendus
+## Arbitrages approuvés
 
 | Sujet | Recommandation | Alternative utile |
 | --- | --- | --- |
@@ -31,6 +31,8 @@ Recommandation : catalogue public, recherche simple, fiches historiques sourcée
 | Renaissance | Pages simples et liens externes, sans gestion de forge | Reporter entièrement ces pages, au prix d’une démonstration partielle de la mission |
 | Langues des contenus | FR/EN pour textes éditoriaux de lancement ; contributions dans une langue avec indication explicite | Traduction humaine obligatoire avant chaque publication, plus lente |
 
+Les cinq recommandations ci-dessus sont approuvées, pas leurs alternatives. Les documents détaillés conservent leur formulation de cadrage ; RF-007 et RF-008 font foi sur le périmètre validé. La [recherche UX](../ux/README.md) poursuit ce cadrage.
+
 Les choix de framework, hébergement, licence et fournisseur OAuth définitif restent pour leurs arbitrages respectifs. Le cadrage ne constitue pas une estimation ferme de coût ou délai.
 
 ---
@@ -39,7 +41,7 @@ Les choix de framework, hébergement, licence et fournisseur OAuth définitif re
 
 # Phase 1 — Product definition
 
-**Status: proposal awaiting approval. Date: 19 October 2026.** The founder authorized definition work, not the recommended MVP, UX phase, or development.
+**Status: five MVP recommendations approved on 19 October 2026 (RF-008).** UX research is authorized; development and later phases still require approval.
 
 ## Core proposal
 
@@ -56,7 +58,7 @@ Recommendation: public catalogue, simple search, sourced historical records, lig
 5. [Constraints, risks and validation](VALIDATION.md).
 6. [Phase authorization](../decisions/RF-006-phase-1-authorization.md) and [MVP decision](../decisions/RF-007-mvp-proposal.md).
 
-## Founder decisions
+## Approved founder decisions
 
 | Topic | Recommendation | Useful alternative |
 | --- | --- | --- |
@@ -65,5 +67,7 @@ Recommendation: public catalogue, simple search, sourced historical records, lig
 | Publication | Review every new record and correction | Immediate publication: discouraged initially |
 | Revival | Simple pages and external links without forge management | Defer pages entirely, demonstrating only part of the mission |
 | Content languages | FR/EN launch editorial content; single-language contributions explicitly identified | Require human translation before every publication: slower |
+
+The five recommendations above are approved, not their alternatives. Detailed documents retain their definition wording; RF-007/RF-008 establish the accepted scope. [UX research](../ux/README.md) follows this definition.
 
 Framework, hosting, licensing and final OAuth provider choices remain subject to their own approvals. This definition is not a firm cost or schedule estimate.

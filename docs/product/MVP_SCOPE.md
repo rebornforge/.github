@@ -4,7 +4,7 @@
 
 # Périmètre MVP proposé
 
-Toutes les lignes ci-dessous restent Proposed. P0 = nécessaire au MVP recommandé ; P1 = après lancement ; hors MVP = exclu du premier développement.
+Les cinq recommandations et les priorités ci-dessous ont été approuvées le 19 octobre 2026 (RF-007/RF-008). P0 = nécessaire au MVP recommandé ; P1 = après lancement ; hors MVP = exclu du premier développement.
 
 | ID | Priorité | Fonction et limite |
 | --- | --- | --- |
@@ -39,7 +39,7 @@ La revue avant publication limite le vandalisme mais concentre le travail sur le
 
 # Proposed MVP scope
 
-Every row remains Proposed. P0 means required for the recommended MVP; P1 means after launch; out of MVP means excluded from initial development.
+The five recommendations and priorities below were approved on 19 October 2026 (RF-007/RF-008). P0 means required for the recommended MVP; P1 means after launch; out of MVP means excluded from initial development.
 
 | ID | Priority | Feature and boundary |
 | --- | --- | --- |
