@@ -22,7 +22,7 @@ Chaque phase requiert la validation explicite du fondateur avant la suivante. Le
 
 ## Autorisation actuelle
 
-Seule la préparation documentaire de phase 0 est autorisée, avec français prioritaire et traduction anglaise. Aucun développement, technologie de prototype, nouveau dépôt, réglage de sécurité, déploiement ou fusion n’est implicitement approuvé.
+La préparation documentaire de phase 0 et le cadrage produit de phase 1 sont autorisés, avec français prioritaire et traduction anglaise. Le [MVP proposé](product/README.md) attend validation. Aucun développement, technologie de prototype, nouveau dépôt, réglage de sécurité, déploiement ou fusion n’est implicitement approuvé.
 
 Conservez les fondations dans ce dépôt. Reporter les dépôts documentation et communauté reste une proposition. Architecture, licences, design, modération et MVP restent ouverts.
 
@@ -30,7 +30,7 @@ La future internationalisation doit privilégier le français et fournir l’ang
 
 ## Suite proposée
 
-Après revue et fusion autorisée, présenter un périmètre borné de phase 1. Ne pas commencer cette phase implicitement.
+Examiner le dossier de phase 1 et arbitrer le MVP. La phase 2 de recherche UX nécessite une nouvelle autorisation explicite.
 
 ---
 
@@ -56,13 +56,13 @@ Every phase requires explicit founder approval before the next begins. Dates and
 
 ## Current authorization
 
-Only phase 0 documentation preparation is approved. No application development, prototype technology, new repository, security-setting change, deployment, or merge is authorized by that approval.
+Phase 0 documentation and phase 1 product definition are authorized. The [proposed MVP](product/README.md) awaits approval. No application development, prototype technology, new repository, security-setting change, deployment, or merge is authorized by that approval.
 
 Keep foundation documentation in this repository for now. Separate docs and community repositories are proposals to defer, not approved creation plans. Architecture, licenses, design direction, moderation scope, and MVP remain open.
 
 ## Proposed next step
 
-After the foundation PR is reviewed and merged by the founder, propose a bounded phase 1 product-definition package. Do not start it implicitly.
+Review phase 1 and decide the MVP. Phase 2 UX research requires a new explicit authorization.
 
 ## Language decision
 
