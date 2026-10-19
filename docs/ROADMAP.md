@@ -22,7 +22,7 @@ Chaque phase requiert la validation explicite du fondateur avant la suivante. Le
 
 ## Autorisation actuelle
 
-Les cinq recommandations du [MVP](product/README.md) sont approuvées et la [phase 2 de recherche UX](ux/README.md) est autorisée le 19 octobre 2026 (RF-008), en français avec traduction anglaise. Aucun développement, technologie de prototype, nouveau dépôt, réglage de sécurité, déploiement ou fusion n’est implicitement approuvé.
+Le MVP et la synthèse UX sont approuvés. La [phase 3 des concepts graphiques](design/phase-3/README.md) est autorisée le 19 octobre 2026 (RF-010), en français avec traduction anglaise. Aucun développement, technologie de prototype, nouveau dépôt, réglage de sécurité, déploiement ou fusion n’est implicitement approuvé.
 
 Conservez les fondations dans ce dépôt. Reporter les dépôts documentation et communauté reste une proposition. Architecture, licences, design, modération et MVP restent ouverts.
 
@@ -30,7 +30,7 @@ La future internationalisation doit privilégier le français et fournir l’ang
 
 ## Suite proposée
 
-Examiner les recommandations UX, puis autoriser séparément la phase 3 des trois concepts graphiques.
+Choisir ou amender une direction graphique, puis autoriser séparément la phase 4 des maquettes détaillées.
 
 ---
 
@@ -56,13 +56,13 @@ Every phase requires explicit founder approval before the next begins. Dates and
 
 ## Current authorization
 
-The five [MVP](product/README.md) recommendations are approved and [phase 2 UX research](ux/README.md) is authorized on 19 October 2026 (RF-008), French first with English translations. No application development, prototype technology, new repository, security-setting change, deployment, or merge is authorized by that approval.
+The MVP and UX synthesis are approved. [Phase 3 visual concepts](design/phase-3/README.md) are authorized on 19 October 2026 (RF-010), French first with English translations. No application development, prototype technology, new repository, security-setting change, deployment, or merge is authorized by that approval.
 
 Keep foundation documentation in this repository for now. Separate docs and community repositories are proposals to defer, not approved creation plans. Architecture, licenses, design direction, moderation scope, and MVP remain open.
 
 ## Proposed next step
 
-Review UX recommendations, then separately authorize phase 3's three visual concepts.
+Select or amend a visual direction, then separately authorize phase 4 detailed mockups.
 
 ## Language decision
 
