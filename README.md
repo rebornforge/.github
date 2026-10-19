@@ -7,7 +7,7 @@
 **Forgotten, not finished.**  
 Discover. Preserve. Rebuild.
 
-RebornForge est un projet français à vocation internationale. Ce dépôt rassemble sa présentation et ses règles de contribution. Le fondateur a autorisé le cadrage produit de phase 1 le 19 octobre 2026 ; le MVP reste à valider. La plateforme n’est pas encore disponible.
+RebornForge est un projet français à vocation internationale. Ce dépôt rassemble sa présentation et ses règles de contribution. Le fondateur a autorisé le cadrage produit de phase 1 le 19 octobre 2026 ; les cinq recommandations du MVP sont approuvées et la recherche UX est autorisée (19 octobre 2026). La plateforme n’est pas encore disponible.
 
 ## Documentation
 
@@ -18,7 +18,8 @@ RebornForge est un projet français à vocation internationale. Ce dépôt rasse
 - [Sécurité](SECURITY.md)
 - [Assistance](SUPPORT.md)
 - [Droits et préservation](docs/RIGHTS_AND_PRESERVATION.md)
-- [Phase 1 — Définition du produit proposée](docs/product/README.md)
+- [Phase 2 — Recherche UX proposée](docs/ux/README.md)
+- [Phase 1 — Définition du produit approuvée](docs/product/README.md)
 - [Feuille de route](docs/ROADMAP.md)
 - [Registre des décisions](docs/decisions/README.md)
 - [Audit et recommandations de sécurité](docs/FOUNDATION_AUDIT.md)
@@ -44,7 +45,7 @@ Discover. Preserve. Rebuild.
 
 RebornForge is a French project with an international outlook. French is the primary public and working language, with English translations. Technical code identifiers remain in English. The future interface must prioritize French and provide English localization without hard-coded strings. Official slogans remain unchanged.
 
-This repository contains the organization profile, shared contribution guidance and the phase 1 product proposal. The founder authorized product definition on 19 October 2026; the MVP remains subject to approval and the platform is not available.
+This repository contains the organization profile, shared contribution guidance and the phase 1 product proposal. The founder authorized product definition on 19 October 2026; the five MVP recommendations are approved and UX research is authorized (19 October 2026) and the platform is not available.
 
 ## Documentation
 
@@ -55,7 +56,8 @@ This repository contains the organization profile, shared contribution guidance 
 - [Security](SECURITY.md)
 - [Support](SUPPORT.md)
 - [Rights and preservation](docs/RIGHTS_AND_PRESERVATION.md)
-- [Phase 1 — Proposed product definition](docs/product/README.md)
+- [Phase 2 — Proposed UX research](docs/ux/README.md)
+- [Phase 1 — Approved product definition](docs/product/README.md)
 - [Roadmap](docs/ROADMAP.md)
 - [Decision register](docs/decisions/README.md)
 - [Audit and security recommendations](docs/FOUNDATION_AUDIT.md)
