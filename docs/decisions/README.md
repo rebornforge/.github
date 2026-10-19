@@ -25,6 +25,9 @@ Implemented signifie qu’une décision approuvée a été exécutée et vérifi
 | RF-010 | Validation UX et autorisation concepts | Approved | [RF-010](RF-010-phase-3-authorization.md) |
 | RF-011 | Modern Community retenu | Approved | [RF-011](RF-011-visual-direction.md) |
 
+| RF-012 | Autorisation des maquettes détaillées | Approved | [RF-012](RF-012-phase-4-authorization.md) |
+| RF-013 | Validation des maquettes détaillées | Proposed | [RF-013](RF-013-detailed-mockup-review.md) |
+
 Utilisez le [modèle](TEMPLATE.md). Ne publiez pas de preuves sensibles. Tracez les validations sans exposer de données privées.
 
 ---
@@ -53,5 +56,8 @@ Implemented means execution of an approved decision has been verified. Approval 
 
 | RF-010 | UX approval and concept authorization | Approved | [RF-010](RF-010-phase-3-authorization.md) |
 | RF-011 | Modern Community selected | Approved | [RF-011](RF-011-visual-direction.md) |
+
+| RF-012 | Detailed mockup authorization | Approved | [RF-012](RF-012-phase-4-authorization.md) |
+| RF-013 | Detailed mockup review | Proposed | [RF-013](RF-013-detailed-mockup-review.md) |
 
 Use [the record template](TEMPLATE.md) for new decisions. Keep sensitive evidence out of public records. Founder identity verification and approval provenance should be documented without exposing private information.

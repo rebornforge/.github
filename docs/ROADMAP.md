@@ -22,7 +22,7 @@ Chaque phase requiert la validation explicite du fondateur avant la suivante. Le
 
 ## Autorisation actuelle
 
-Le MVP et la synthèse UX sont approuvés. La [phase 3 des concepts graphiques](design/phase-3/README.md) est autorisée le 19 octobre 2026 (RF-010), en français avec traduction anglaise. Aucun développement, technologie de prototype, nouveau dépôt, réglage de sécurité, déploiement ou fusion n’est implicitement approuvé.
+Le MVP et la synthèse UX sont approuvés. C Modern Community est retenu et la [phase 4 des maquettes détaillées](design/phase-4/README.md) est autorisée le 19 octobre 2026 (RF-012), en français avec traduction anglaise. Aucun développement, technologie de prototype, nouveau dépôt, réglage de sécurité, déploiement ou fusion n’est implicitement approuvé.
 
 Conservez les fondations dans ce dépôt. Reporter les dépôts documentation et communauté reste une proposition. Architecture, licences, design, modération et MVP restent ouverts.
 
@@ -30,7 +30,7 @@ La future internationalisation doit privilégier le français et fournir l’ang
 
 ## Suite proposée
 
-Choisir ou amender une direction graphique, puis autoriser séparément la phase 4 des maquettes détaillées.
+Examiner les pages détaillées et leurs états ; après validation seulement, proposer technologie et lancement du prototype de phase 5.
 
 ---
 
@@ -56,13 +56,13 @@ Every phase requires explicit founder approval before the next begins. Dates and
 
 ## Current authorization
 
-The MVP and UX synthesis are approved. [Phase 3 visual concepts](design/phase-3/README.md) are authorized on 19 October 2026 (RF-010), French first with English translations. No application development, prototype technology, new repository, security-setting change, deployment, or merge is authorized by that approval.
+The MVP and UX synthesis are approved. C Modern Community is selected and [phase 4 detailed mockups](design/phase-4/README.md) are authorized on 19 October 2026 (RF-012), French first with English translations. No application development, prototype technology, new repository, security-setting change, deployment, or merge is authorized by that approval.
 
 Keep foundation documentation in this repository for now. Separate docs and community repositories are proposals to defer, not approved creation plans. Architecture, licenses, design direction, moderation scope, and MVP remain open.
 
 ## Proposed next step
 
-Select or amend a visual direction, then separately authorize phase 4 detailed mockups.
+Review detailed pages/states; only after approval, propose phase 5 prototype technology and launch.
 
 ## Language decision
 
