@@ -20,7 +20,10 @@ Implemented signifie qu’une décision approuvée a été exécutée et vérifi
 | RF-007 | MVP approuvé | Approved | [RF-007](RF-007-mvp-proposal.md) |
 
 | RF-008 | Validation MVP et autorisation UX | Approved | [RF-008](RF-008-phase-2-authorization.md) |
-| RF-009 | Recommandations UX | Proposed | [RF-009](RF-009-ux-recommendations.md) |
+| RF-009 | Recommandations UX | Approved | [RF-009](RF-009-ux-recommendations.md) |
+
+| RF-010 | Validation UX et autorisation concepts | Approved | [RF-010](RF-010-phase-3-authorization.md) |
+| RF-011 | Modern Community retenu | Approved | [RF-011](RF-011-visual-direction.md) |
 
 Utilisez le [modèle](TEMPLATE.md). Ne publiez pas de preuves sensibles. Tracez les validations sans exposer de données privées.
 
@@ -46,6 +49,9 @@ Implemented means execution of an approved decision has been verified. Approval 
 | RF-007 | Approved MVP | Approved | [RF-007](RF-007-mvp-proposal.md) |
 
 | RF-008 | MVP approval and UX authorization | Approved | [RF-008](RF-008-phase-2-authorization.md) |
-| RF-009 | UX recommendations | Proposed | [RF-009](RF-009-ux-recommendations.md) |
+| RF-009 | UX recommendations | Approved | [RF-009](RF-009-ux-recommendations.md) |
+
+| RF-010 | UX approval and concept authorization | Approved | [RF-010](RF-010-phase-3-authorization.md) |
+| RF-011 | Modern Community selected | Approved | [RF-011](RF-011-visual-direction.md) |
 
 Use [the record template](TEMPLATE.md) for new decisions. Keep sensitive evidence out of public records. Founder identity verification and approval provenance should be documented without exposing private information.
