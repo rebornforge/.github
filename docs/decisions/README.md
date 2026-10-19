@@ -16,6 +16,9 @@ Implemented signifie qu’une décision approuvée a été exécutée et vérifi
 | RF-004 | Identité et signalements | Approved | [RF-004](RF-004-identity-and-reporting.md) |
 | RF-005 | Français prioritaire et traduction anglaise | Approved | [RF-005](RF-005-french-first.md) |
 
+| RF-006 | Autorisation phase 1 | Approved | [RF-006](RF-006-phase-1-authorization.md) |
+| RF-007 | MVP proposé | Proposed | [RF-007](RF-007-mvp-proposal.md) |
+
 Utilisez le [modèle](TEMPLATE.md). Ne publiez pas de preuves sensibles. Tracez les validations sans exposer de données privées.
 
 ---
@@ -34,7 +37,9 @@ Implemented means execution of an approved decision has been verified. Approval 
 | RF-002 | Foundation documentation preparation | Approved | [RF-002](RF-002-documentation-phase.md) |
 | RF-003 | Foundation publication readiness | Proposed | [RF-003](RF-003-publication-readiness.md) |
 | RF-004 | Founder identity and reporting channel | Approved | [RF-004](RF-004-identity-and-reporting.md) |
-
 | RF-005 | French-first publication with English translations | Approved | [RF-005](RF-005-french-first.md) |
+
+| RF-006 | Phase 1 authorization | Approved | [RF-006](RF-006-phase-1-authorization.md) |
+| RF-007 | Proposed MVP | Proposed | [RF-007](RF-007-mvp-proposal.md) |
 
 Use [the record template](TEMPLATE.md) for new decisions. Keep sensitive evidence out of public records. Founder identity verification and approval provenance should be documented without exposing private information.
