@@ -4,7 +4,7 @@
 
 # Phase 3 — Trois directions graphiques
 
-**19 octobre 2026 · Proposed.** Maquettes visuelles statiques d’accueil, avec desktop à gauche et adaptation smartphone à droite. Aucun concept, logo, palette, police ou technologie n’est adopté.
+**19 octobre 2026 · C — Modern Community retenu par le fondateur (RF-011).** Maquettes visuelles statiques d’accueil, avec desktop à gauche et adaptation smartphone à droite. C est la direction de référence ; les détails exacts du logo, des couleurs et polices restent à formaliser. Aucune technologie n’est choisie.
 
 ## Consulter les planches
 
@@ -26,11 +26,11 @@
 
 [Ouvrir la planche C](assets/concept-c-modern-community.png). Fond clair, bleu vif, touches vertes ; sans-serif arrondie, cartes conviviales, commandes simples et espace généreux. L’ensemble favorise l’entrée des non-développeurs.
 
-## Arbitrer
+## Choix du fondateur
 
 Lire la [comparaison détaillée](COMPARISON.md), la [revue visuelle et les limites](VISUAL_REVIEW.md) puis le [texte français/anglais des maquettes](COPY_FR_EN.md).
 
-**Recommandation : B comme direction patrimoniale, en reprenant la simplicité de recherche et de navigation de C.** Ce mélange reste une proposition : aucune direction n’est officialisée sans choix explicite. A reste une option solide si l’identité technique doit primer.
+**Choix validé : C — Modern Community.** La recommandation IA initiale était B avec des contrôles inspirés de C ; le choix du fondateur prévaut. La phase 4 reste à autoriser ; aucun prototype ni fusion ne découle automatiquement de ce choix.
 
 Le fondateur peut choisir A, B, C, une combinaison précisément décrite, demander des corrections ou refuser les trois.
 
@@ -48,7 +48,7 @@ La PR de phase 3 dépend de la branche UX : PR #4 encore ouverte au démarrage d
 
 # Phase 3 — Three visual directions
 
-**19 October 2026 · Proposed.** Static homepage mockups, desktop left and smartphone adaptation right. No concept, logo, palette, font or technology adopted.
+**19 October 2026 · C — Modern Community selected by the founder (RF-011).** Static homepage mockups, desktop left and smartphone adaptation right. C is the reference direction; exact logo, color and type specifications remain to be formalized. No technology selected.
 
 ## View the boards
 
@@ -70,11 +70,11 @@ La PR de phase 3 dépend de la branche UX : PR #4 encore ouverte au démarrage d
 
 [Open board C](assets/concept-c-modern-community.png). Bright background, vivid blue and green details; rounded sans-serif, friendly cards, simple controls and generous space. Welcomes non-developers.
 
-## Decide
+## Founder selection
 
 Read the [detailed comparison](COMPARISON.md), [visual review/limits](VISUAL_REVIEW.md) and [French/English mockup copy](COPY_FR_EN.md).
 
-**Recommendation: B's heritage identity with C's straightforward search and navigation.** This combination remains a proposal; no direction is official without explicit selection. A remains strong if technical identity should lead.
+**Approved choice: C — Modern Community.** The initial AI recommendation favored B with C-inspired controls; the founder's choice prevails. Phase 4 still requires authorization; this selection does not automatically authorize a prototype or merge.
 
 The founder can select A/B/C, specify a combination, request revisions or reject all three.
 
